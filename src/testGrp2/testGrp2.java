@@ -6,8 +6,8 @@ public class testGrp2 {
 		// TODO Auto-generated method stub
 
 		System.out.println("toto");
-		
-		
+		System.out.println("titi");
+		System.out.println("titi");
 	}
 
 }
