@@ -7,7 +7,7 @@ public class testGrp2 {
 
 		System.out.println("toto");
 		System.out.println("titi");
-		System.out.println("titi");
+
 		
 		
 	}
